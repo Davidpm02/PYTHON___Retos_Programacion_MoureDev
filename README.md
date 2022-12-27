@@ -41,7 +41,49 @@ Este reto trata de crear una funcion que calcule la sucesion de Fibonacci en bas
 <br>
 <br>
 
+<h2> Reto #4 --> Area de un poligono </h2>
+Este reto trata de crear una funcion que reciba un poligono como argumento y devuelva el area del mismo.
 
+La funcion que he creado recibe como argumento un input que representa el poligono en cuestion. En funcion de que poligono haya introducido
+el usuario como poligono, el programa tomara una ruta u otra para devolver el area de los poligonos.
+
+Esta funcion permite calcular el area de 3 poligonos:
+
+  - Triangulo
+  
+  - Cuadrado
+  
+  - Rectangulo
+<br>
+<br>
+<br>
+<br>
+
+<h2> Reto #6 --> Invirtiendo cadenas. </h2>
+Este reto trata de crear una funcion que invierta una cadena pasada como argumento.
+
+La funcion emplea un bucle for para introducire en una lista vacia cada elemento de la cadena desde el final en cada iteracion
+
+e.g.:
+
+    string = 'food'
+
+ iteracion n1:
+ 
+    listaCadena = ['d']
+
+ iteracion n2:
+ 
+    listaCadena = ['d','o']
+    
+    ...
+    
+    
+Finalmente, hago uso del metodo .join() para crear la cadena resultante.
+<br>
+<br>
+<br>
+<br>
 
 
 
