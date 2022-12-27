@@ -14,14 +14,14 @@
 # para los numeros comprendidos entre 1 y 100 (101-1).
 def fizzbuzz():
     for item in range(1,101):
-        if item % 3 == 0 and item % 5 == 0:                     # Esta condicion debe ir primero; en caso contrario,
-            print('Numero',item,'-->','fizzbuzz', end='\n')     # el programa solo tomaria la ruta del primer if coincidente.
+        if item % 3 == 0 and item % 5 == 0:    # Esta condicion debe ir primero; en caso contrario,
+            print('bizzbuzz')                  # el programa solo tomaria la ruta del primer if coincidente.
         elif item % 3 == 0:
-            print('Numero',item,'-->','fizz', end='\n')
+            print('fizz')
         elif item % 5 == 0:
-            print('Numero',item,'-->','buzz', end='\n')
+            print('buzz')
         else:
-            pass
+            print(item)
             
 if __name__ == '__main__':
     fizzbuzz()
