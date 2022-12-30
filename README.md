@@ -115,3 +115,21 @@ Una vez hecha la comprobacion, la funcion principal realiza la traduccion de acu
 <br>
 <br>
 <br>
+
+<h2> Reto #11 --> Eliminando caracteres </h2>
+Este reto consiste en, a partir de dos cadenas pasadas como argumento a una funcion, conseguir que esta retorne otras dos nuevas cadenas (out1, out2) pero:
+
+ - out1 solo puede contener aquellos valores del primer string que no esten en el segundo.
+ - out2 solo puede contener aquellos valores del segundo string que no esten en el primero.
+<br>
+<br>
+<br>
+<br>
+
+<h2> Reto #12 --> Es un palindromo? </h2>
+Este reto consiste en crear una función que devuelva un valor booleano (True o False) en función si la cadena que recibe como argumento es o no un palindromo (Un palindromo es una palabra o expresión que es igual si se lee de izquierda a derecha que de derecha a izquierda.)
+<br>
+<br>
+<br>
+<br>
+
