@@ -133,3 +133,21 @@ Este reto consiste en crear una función que devuelva un valor booleano (True o 
 <br>
 <br>
 
+<h2> Reto #13 --> Factorial Recursivo </h2>
+Este reto consiste en crear una funcion que calcule el factorial de un numero, la cual se llame a si misma durante la ejecucion de la funcion.
+<br>
+<br>
+<br>
+<br>
+
+<h2> Reto #14 --> Es un numero de Armstrong? </h2>
+Este reto consiste en crear una funcion que nos retorne un valor booleano (True o False) en funcion de si el numero que recibe como argumento es o no un numero de Armstrong o numero narcisista.
+
+  - Un numero de Armstrong es un numero el cual la suma del resultado de elevar cada numero que lo compone a la cantidad total de numero que componen el argumento, es igual al propio argumento.
+  
+  e.g.:
+  371 --> 3 elevado a 3 + 7 elevado a 3 + 1 elevado a 3 = 371
+<br>
+<br>
+<br>
+<br>
