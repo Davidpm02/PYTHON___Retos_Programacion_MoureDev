@@ -25,7 +25,12 @@ def carrera(array,str):
         listaStringPistaFinal = []    # Inicializamos una lista que contendra los elementos que vayamos imprimiendo por pantalla
         contador = 0                  # a lo largo de la carrera, y una variable contador que usaremos para referirnos al indice.
         for accion in array:
-            if accion == 'run' and str[contador] == '_':     #Ejecutamos un bucle for para iterar sobre los elementos del array argumento
+            if accion != 'run' and accion != 'jump':
+                print(' ', end='\n')
+                raise Exception
+            
+            
+            elif accion == 'run' and str[contador] == '_':     #Ejecutamos un bucle for para iterar sobre los elementos del array argumento
                 print('_',end='')                            
                 listaStringPistaFinal.append('_')
                 contador +=1                                   # El bucle for contiene cuatro condicionales para actuar en base a las
@@ -54,7 +59,7 @@ def carrera(array,str):
                 print(' ',end='\n')               # una ocasion), el programa retornara False.
                 return False                      
             else:
-                print(' ',end='\n')               # Si nungun elemento de la lista es diferente a '_' o '|', el programa retornara True.
+                print(' ',end='\n')               # Si ningun elemento de la lista es diferente a '_' o '|', el programa retornara True.
                 True  
     except AssertionError:
         if len(array) > len(str):
@@ -63,6 +68,8 @@ def carrera(array,str):
             print('La pista es demasiado larga para la cantidad de acciones asignadas al atleta.')    
         else:
             print('Ha ocurrido un error al especificar el array de acciones o el string de la pista.')
+    except Exception:
+        print('Ha ocurrido un error al especificar el array de acciones o el string de la pista.')
 
 
 
