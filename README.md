@@ -185,3 +185,11 @@ El reto consiste en crear una funcion con dos parametros.
 <br>
 <br>
 <br>
+
+<h2> Reto #19 --> Conversor Tiempo </h2>
+
+Este reto consiste en crear una funcion que reciba como argumentos unos datos de tiempo entrero que representen los dias, las horas, los minutos y los segundos, y retorne el numero de milisegundos totales.
+<br>
+<br>
+<br>
+<br>
