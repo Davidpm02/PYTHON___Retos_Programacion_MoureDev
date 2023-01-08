@@ -202,3 +202,16 @@ Este reto consiste en crear una funcion que reciba tres parametros. Dos de ellos
 <br>
 <br>
 <br>
+
+
+<h2> Reto #22 --> Conjuntos </h2>
+
+Este reto consiste en crear una funcion que reciba tres parametros. Los dos primeros representan una lista cada uno que puede contener n valores con independecia de tipo. El tercer parametro debe ser un valor booleano que decidira el resultado que deberia tener el programa.
+
+ - Si el booleano es verdadero buscará y retornará los elementos comunes de los dos array.
+ - Si el booleano es falso buscará y retornará los elementos no comunes de los dos array.
+ - No se pueden utilizar operaciones del lenguaje que lo resuelvan directamente.
+<br>
+<br>
+<br>
+<br>
