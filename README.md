@@ -193,3 +193,12 @@ Este reto consiste en crear una funcion que reciba como argumentos unos datos de
 <br>
 <br>
 <br>
+
+
+<h2> Reto #20 --> Parando el tiempo </h2>
+
+Este reto consiste en crear una funcion que reciba tres parametros. Dos de ellos representan dos enteros que la funcion tiene que sumar y retornar co o resultado. El tercer parametro representa el numero de segundos que deben pasar antes de que la funcion retorne su resultado.
+<br>
+<br>
+<br>
+<br>
