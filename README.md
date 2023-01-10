@@ -41,6 +41,15 @@ Este reto trata de crear una función que calcule la sucesion de Fibonacci en ba
 <br>
 <br>
 
+<h2> Reto #3 --> Es un numero primo? </h2>
+Este reto trata de crear una función que sea capaz de comprobar si un numero es primo o no. 
+
+Ademas, debe devolver el resultado de comprobar que numeros son primeros y cuales no de una lista de numeros del 1 al 100.
+<br>
+<br>
+<br>
+<br>
+
 <h2> Reto #4 --> Area de un poligono </h2>
 Este reto trata de crear una función que reciba un poligono como argumento y devuelva el area del mismo.
 
