@@ -233,3 +233,11 @@ Este reto consiste en crear una funcion que reciba tres parametros. Los dos prim
 <br>
 <br>
 <br>
+
+<h2> Reto #24 --> Minimo Comun Multiplo y Maximo Comun Divisor </h2>
+
+Este reto consiste en crear dos funciones que reciban como parametros 2 numeros y devuelvan un resultado tras calcular el minimo comun multiplo (una funcion) y el maximo comun divisor (la otra funcion) de esos dos numeros.
+<br>
+<br>
+<br>
+<br>
