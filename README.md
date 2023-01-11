@@ -125,6 +125,15 @@ Una vez hecha la comprobacion, la funcion principal realiza la traduccion de acu
 <br>
 <br>
 
+
+<h2> Reto #10 --> Expresiones Equilibradas </h2>
+Este reto consiste en crear una funcion que analice una determinada expresion que introduzca el usuario por teclado.
+Tras analizarla, debe haber comprobado que los elementos '(',')' - '[',']' - '{','}' estan correctamente colocados, y retornar un resultado u otro en funcion de la comprobacion.
+<br>
+<br>
+<br>
+<br>
+
 <h2> Reto #11 --> Eliminando caracteres </h2>
 Este reto consiste en, a partir de dos cadenas pasadas como argumento a una funcion, conseguir que esta retorne otras dos nuevas cadenas (out1, out2) pero:
 
