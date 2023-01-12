@@ -249,3 +249,13 @@ Este reto consiste en mostrar de cuantas formas diferentes se es capaz de imprim
 <br>
 <br>
 <br>
+
+<h2> Reto #25 --> Piedra, Papel o Tijera </h2>
+Este reto consiste en crear un programa que, tras analizar una serie de jugadas de dos jugadores a piedra, papel o tijera, se determine cual de estos ha ganado, o si la partida ha resultado en empate.
+
+Dentro del archivo del juego hay mas imformacion detalla sobre el modo de juego.
+
+<br>
+<br>
+<br>
+<br>
