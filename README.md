@@ -234,9 +234,17 @@ Este reto consiste en crear una funcion que reciba tres parametros. Los dos prim
 <br>
 <br>
 
-<h2> Reto #24 --> Minimo Comun Multiplo y Maximo Comun Divisor </h2>
+<h2> Reto #23 --> Minimo Comun Multiplo y Maximo Comun Divisor </h2>
 
 Este reto consiste en crear dos funciones que reciban como parametros 2 numeros y devuelvan un resultado tras calcular el minimo comun multiplo (una funcion) y el maximo comun divisor (la otra funcion) de esos dos numeros.
+<br>
+<br>
+<br>
+<br>
+
+<h2> Reto #24 --> Iteration Master </h2>
+Este reto consiste en mostrar de cuantas formas diferentes se es capaz de imprimir por pantalla los numeros del 1 al 100.
+
 <br>
 <br>
 <br>
