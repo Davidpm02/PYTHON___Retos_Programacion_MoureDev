@@ -5,6 +5,8 @@ Retos de Programacion resueltos en Python.
 
 <h1> Introduccion </h1>
 Este repositorio contendrá un conjunto de scripts escritos en Python que resuelve una serie de problemas de lógica de programación.
+Dentro de cada archivo se incluye el enunciado del ejercicio que se resuelve en el mismo.
+
 
 Todos los archivos de codigo contienen comentarios explicando el problema en cuestion, asi como comentarios que indican los pasos que yo he
 seguidos para su resolucion.
@@ -253,7 +255,7 @@ Este reto consiste en mostrar de cuantas formas diferentes se es capaz de imprim
 <h2> Reto #25 --> Piedra, Papel o Tijera </h2>
 Este reto consiste en crear un programa que, tras analizar una serie de jugadas de dos jugadores a piedra, papel o tijera, se determine cual de estos ha ganado, o si la partida ha resultado en empate.
 
-Dentro del archivo del juego hay mas imformacion detalla sobre el modo de juego.
+Dentro del archivo del juego 'reto.py' hay mas informacion detallada sobre el modo de juego.
 
 <br>
 <br>
