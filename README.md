@@ -261,3 +261,14 @@ Dentro del archivo del juego 'reto.py' hay mas informacion detallada sobre el mo
 <br>
 <br>
 <br>
+
+
+<h2> Reto #26 --> Cuadrado y Triangulo 2D </h2>
+Este reto consiste en crear una funcion que imprima por pantalla un cuadrado o un triangulo, segun la eleccion del usuario.
+
+Ambas figuras estan compuestas por el simbolo '*', y el usuario debe elegir la longitud de los lados o alturas de las figuras.
+
+<br>
+<br>
+<br>
+<br>
