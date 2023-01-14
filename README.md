@@ -272,3 +272,14 @@ Ambas figuras estan compuestas por el simbolo '*', y el usuario debe elegir la l
 <br>
 <br>
 <br>
+
+
+<h2> Reto #27 --> Vectores Ortogonales </h2>
+Este reto consiste en crear una funcion que reciba dos listas como argumentos, representando dos vectores.
+
+La funcion debe ser capaz de imprimir por pantalla si ambos vectores son ortogonales o no.
+
+<br>
+<br>
+<br>
+<br>
