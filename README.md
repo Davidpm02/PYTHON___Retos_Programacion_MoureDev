@@ -283,3 +283,15 @@ La funcion debe ser capaz de imprimir por pantalla si ambos vectores son ortogon
 <br>
 <br>
 <br>
+
+<h2> Reto #28 --> Maquina Expendedora </h2>
+Este reto consiste en crear un programa que simule el comportamiento de una maquina expendedora.
+
+
+La funcion tiene un argumento, y solicita al usuario introducir por teclado el numero del producto que desea comprar. En este caso, la funcion
+tomara un camino u otro en funcion del argumento que haya pasado el usuario para el parametro, y el producto que haya seleccionado para comprar.
+
+<br>
+<br>
+<br>
+<br>
