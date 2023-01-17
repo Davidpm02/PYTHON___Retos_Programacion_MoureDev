@@ -307,3 +307,13 @@ texto por teclado al usuario. El marco que se imprime al final contendra el text
 <br>
 <br>
 <br>
+
+<h2> Reto #31 --> Años bisiestos </h2>
+Este reto consiste en crear una funcion que evalue cuando un año es bisiesto, y cuando no lo es.
+
+La funcion tiene que ser probada imprimiendo que años son bisiestos y cuales no en los proximos 30 años.
+
+<br>
+<br>
+<br>
+<br>
