@@ -295,3 +295,15 @@ tomara un camino u otro en funcion del argumento que haya pasado el usuario para
 <br>
 <br>
 <br>
+
+<h2> Reto #30 --> Marco de palabras </h2>
+Este reto consiste en crear una funcion que, en base a un texto que esta reciba, imprima el texto por pantalla, pero en
+el interior de un marco.
+
+En mi funcion, no se le pasa un texto a la propia funcion al momento de invocarla, sino que, al ejecutarse, solicita un 
+texto por teclado al usuario. El marco que se imprime al final contendra el texto que el usuario ha introducido por teclado.
+
+<br>
+<br>
+<br>
+<br>
