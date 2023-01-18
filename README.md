@@ -317,3 +317,14 @@ La funcion tiene que ser probada imprimiendo que años son bisiestos y cuales no
 <br>
 <br>
 <br>
+
+
+<h2> Reto #32 --> EL SEGUNDO </h2>
+Este reto consiste en crear una funcion reciba una secuencia como argumento y retorne el segundo numero mas grande de la misma.
+
+La funcion esta pensada para que la secuencia pasada como argumento solo contenga numeros, pero en la caso de que algun elemento de la misma sea una cadena de texto, se la evaluara como la suma de todos los puntos de codigo de las letras que la componen.
+
+<br>
+<br>
+<br>
+<br>
