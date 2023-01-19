@@ -328,3 +328,12 @@ La funcion esta pensada para que la secuencia pasada como argumento solo conteng
 <br>
 <br>
 <br>
+
+<h2> Reto #34 --> Los numeros perdidos </h2>
+Este reto consiste en crear una funcion que evalue una lista pasada como argumento, y retorne todos los numeros comprendidos entre el primer elemento del argumento (argumento[0]), y el ultimo elemento (argumento[-1]) QUE NO ESTEN CONTENIDOS en el propio argumento.
+
+<br>
+<br>
+<br>
+<br>
+
