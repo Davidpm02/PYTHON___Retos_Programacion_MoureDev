@@ -337,3 +337,12 @@ Este reto consiste en crear una funcion que evalue una lista pasada como argumen
 <br>
 <br>
 
+<h2> Reto #35 --> Los batalla Pokémon </h2>
+Este reto consiste en crear un programa que retorne un resultado numerico tras evaluar los argumentos pasados a la funcion principal del programa en su invocacion.
+
+Mi funcion retorna por pantalla un string que detalla al usuario cuando daño ha inflingido un Pokémon a otro.
+<br>
+<br>
+<br>
+<br>
+
