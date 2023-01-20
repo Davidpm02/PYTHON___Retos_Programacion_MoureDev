@@ -355,3 +355,13 @@ El programa debe permitir elegir al usuario la cantidad de personajes que debe h
 <br>
 <br>
 
+<h2> Reto #37 --> Los lanzamientos de "The Legend of Zelda” </h2>
+Este reto consiste en crear un programa que solicite al usuario dos juegos de la franquicia de Nintendo "The Legend of Zelda”, y devuelva por pantalla el tiempo transcurrido en años y días entre el lanzamiento al mercado de ambos juegos.
+
+<br>
+<br>
+<br>
+<br>
+
+
+
