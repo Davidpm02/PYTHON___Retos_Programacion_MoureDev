@@ -73,6 +73,10 @@ razasMalvadas = [Surenios_malos,Orcos,Goblins,Huargos,Trolls]
 
 
 def batalla():
+    """Funcion sin parametros que simula una batalla entre dos equipos de bandos contrarios.
+       La funcion permite al usuario elegir por teclado la cantidad de personajes por equipo, asi como el tipo de personajes
+       que compondra cada equipo.
+    """
     numeroPersonajes = int(input('''Seleccione el numero de personajes por equipo:
                            - 1.
                            - 2.
