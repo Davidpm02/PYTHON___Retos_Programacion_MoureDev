@@ -337,10 +337,19 @@ Este reto consiste en crear una funcion que evalue una lista pasada como argumen
 <br>
 <br>
 
-<h2> Reto #35 --> Los batalla Pokémon </h2>
+<h2> Reto #35 --> Batalla Pokémon </h2>
 Este reto consiste en crear un programa que retorne un resultado numerico tras evaluar los argumentos pasados a la funcion principal del programa en su invocacion.
 
 Mi funcion retorna por pantalla un string que detalla al usuario cuando daño ha inflingido un Pokémon a otro.
+<br>
+<br>
+<br>
+<br>
+
+<h2> Reto #36 --> Los anillos de poder</h2>
+Este reto consiste en crear un programa que sumile una batalla entre dos bandos de personajes.
+
+El programa debe permitir elegir al usuario la cantidad de personajes que debe haber en cada bando.
 <br>
 <br>
 <br>
