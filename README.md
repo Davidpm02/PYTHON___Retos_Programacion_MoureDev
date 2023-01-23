@@ -363,5 +363,13 @@ Este reto consiste en crear un programa que solicite al usuario dos juegos de la
 <br>
 <br>
 
+<h2> Reto #38 --> Binario a decimal </h2>
+Este reto consiste en crear una funcion que reciba un numero en codigo binario y retorne su equivalente a numero decimal.
+
+<br>
+<br>
+<br>
+<br>
+
 
 
