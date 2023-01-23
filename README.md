@@ -371,5 +371,13 @@ Este reto consiste en crear una funcion que reciba un numero en codigo binario y
 <br>
 <br>
 
+<h2> Reto #41 --> La ley de Ohm </h2>
+Este reto consiste en crear una funcion con tres parametros que reciba argumentos para dos de ellos durante la invocacion, y devuelva por pantalla  el valor del tercero de ser posible.
+
+<br>
+<br>
+<br>
+<br>
+
 
 
