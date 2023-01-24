@@ -379,5 +379,14 @@ Este reto consiste en crear una funcion con tres parametros que reciba argumento
 <br>
 <br>
 
+<h2> Reto #42 --> Conversor de temperatura </h2>
+Este reto consiste en crear una funcion que, en base a la informacion de temperatura recibida por teclado, devuelta un string por pantalla con la temperatura en una unidad diferente.
+
+<br>
+<br>
+<br>
+<br>
+
+
 
 
