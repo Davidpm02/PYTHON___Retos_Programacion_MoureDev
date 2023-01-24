@@ -13,46 +13,49 @@
 
 
 def cambiarFormatoTemperatura():
+    """Funcion sin parametros que solicita al usuario informacion por teclado y, en funcion de dicha informacion, se devuelve un string con 
+       la informacion convertida en otra unidad.
+    """
     
-        formato = int(input('''Seleccione el tipo de grados que va a introducir:
-                            
-                            > 1. Celsius  (seleccione '1')
-                            > 2. Fahrenheit  (seleccione '2')
-                            '''))
-        if formato == 1:
-            confirmacion = int(input('''Desea convertir grados Celsius a Fahrenheit?
-                                    
-                                    > 1. SI  (seleccione '1')
-                                    > 2. NO  (seleccione '2')
-                                    '''))
-            if confirmacion == 1:
-                gradosCelsius = float(input('Por favor, introduzca los grados en formato Celsuis:'))
-                
-                gradosTransformados = ((gradosCelsius * 9) / 5) + 32
-                print('Se ha realizado la conversion de grados Celsius a grados Fahrenheit.')
-                return 'El resultado es: {} grados Celsius equivale a {} grados Fahrenheit.'.format(gradosCelsius,
-                                                                                                    round(gradosTransformados,2))
+    formato = int(input('''Seleccione el tipo de grados que va a introducir:
+                        
+                        > 1. Celsius  (seleccione '1')
+                        > 2. Fahrenheit  (seleccione '2')
+                        '''))
+    if formato == 1:
+        confirmacion = int(input('''Desea convertir grados Celsius a Fahrenheit?
+                                
+                                > 1. SI  (seleccione '1')
+                                > 2. NO  (seleccione '2')
+                                '''))
+        if confirmacion == 1:
+            gradosCelsius = float(input('Por favor, introduzca los grados en formato Celsuis:'))
             
-            elif confirmacion == 2:
-                return ('Se ha anulado la conversion.')
+            gradosTransformados = ((gradosCelsius * 9) / 5) + 32
+            print('Se ha realizado la conversion de grados Celsius a grados Fahrenheit.')
+            return 'El resultado es: {} grados Celsius equivale a {} grados Fahrenheit.'.format(gradosCelsius,
+                                                                                                round(gradosTransformados,2))
+        
+        elif confirmacion == 2:
+            return ('Se ha anulado la conversion.')
+        
+        
+    elif formato == 2:
+        confirmacion = int(input('''Desea convertir grados Fahrenheit a Celsius?
+                                
+                                > 1. SI  (seleccione '1')
+                                > 2. NO  (seleccione '2')
+                                '''))
+        if confirmacion == 1:
+            gradosFahrenheit = float(input('Por favor, introduzca los grados en formato Fahrenheit:'))
             
-            
-        elif formato == 2:
-            confirmacion = int(input('''Desea convertir grados Fahrenheit a Celsius?
-                                    
-                                    > 1. SI  (seleccione '1')
-                                    > 2. NO  (seleccione '2')
-                                    '''))
-            if confirmacion == 1:
-                gradosFahrenheit = float(input('Por favor, introduzca los grados en formato Fahrenheit:'))
-                
-                gradosTransformados = (gradosFahrenheit - 32) * 5 / 9  
-                print('Se ha realizado la conversion de grados Fahrenheit a grados Celsius.')
-                return 'El resultado es: {} grados Fahrenheit equivale a {} grados Celsius.'.format(gradosFahrenheit,
-                                                                                                    round(gradosTransformados,2))
-            
-            elif confirmacion == 2:
-                 return 'Se ha anulado la conversion.'
+            gradosTransformados = (gradosFahrenheit - 32) * 5 / 9  
+            print('Se ha realizado la conversion de grados Fahrenheit a grados Celsius.')
+            return 'El resultado es: {} grados Fahrenheit equivale a {} grados Celsius.'.format(gradosFahrenheit,
+                                                                                                round(gradosTransformados,2))
+        
+        elif confirmacion == 2:
+                return 'Se ha anulado la conversion.'
             
             
                 
