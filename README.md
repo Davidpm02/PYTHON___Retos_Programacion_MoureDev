@@ -387,6 +387,15 @@ Este reto consiste en crear una funcion que, en base a la informacion de tempera
 <br>
 <br>
 
+<h2> Reto #43 --> Truco o trato </h2>
+Este reto consiste en crear un programa que reciba una serie de parametros y retorne un string final con el resultado. Las instrucciones y demas infromacion estan en el archivo reto.py del reto.
+
+<br>
+<br>
+<br>
+<br>
+
+
 
 
 
