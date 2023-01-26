@@ -395,6 +395,16 @@ Este reto consiste en crear un programa que reciba una serie de parametros y ret
 <br>
 <br>
 
+<h2> Reto #44 --> Boomeranes </h2>
+Este reto consiste en crear una funcion que reciba un array y, tras evaluarlo, devuelva por pantalla los boomeranes que se encuentran dentro del propio array.
+
+En el enunciado del ejercicio (dentro del archivo reto.py) se encuentran las instrucciones de que es un boomeran y como debe actuar la funcion.
+<br>
+<br>
+<br>
+<br>
+
+
 
 
 
