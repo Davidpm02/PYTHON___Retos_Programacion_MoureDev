@@ -404,6 +404,13 @@ En el enunciado del ejercicio (dentro del archivo reto.py) se encuentran las ins
 <br>
 <br>
 
+<h2> Reto #47 --> La vocal más común </h2>
+Este reto consiste en crear una funcion que evalue un texto o string, y retorne por pantalla la vocal mas repetida.
+<br>
+<br>
+<br>
+<br>
+
 
 
 
