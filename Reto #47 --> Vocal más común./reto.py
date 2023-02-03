@@ -54,15 +54,15 @@ def contarVocales():
     masRepetida = max(a,e,i,o,u)  # No se imprime la letra, se impreme el numero de repeticiones de la letra mas repetida.
 
     if masRepetida == listaVocales[0]:
-        return 'La vocal mas repetida es la "a".'
+        return 'La vocal mas repetida es la "a" (se ha repetido un total de {} veces).'.format(masRepetida)
     elif masRepetida == listaVocales[1]:
-        return 'La vocal mas repetida es la "e".'
+        return 'La vocal mas repetida es la "e" (se ha repetido un total de {} veces).'.format(masRepetida)
     elif masRepetida == listaVocales[2]:
-        return 'La vocal mas repetida es la "i".'
+        return 'La vocal mas repetida es la "i" (se ha repetido un total de {} veces).'.format(masRepetida)
     elif masRepetida == listaVocales[3]:
-        return 'La vocal mas repetida es la "o".'
+        return 'La vocal mas repetida es la "o" (se ha repetido un total de {} veces).'.format(masRepetida)
     elif masRepetida == listaVocales[4]:
-        return 'La vocal mas repetida es la "u".'
+        return 'La vocal mas repetida es la "u" (se ha repetido un total de {} veces).'.format(masRepetida)
     else:
         return 'Por favor, vuelve a intentarlo.'
 
