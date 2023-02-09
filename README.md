@@ -411,6 +411,14 @@ Este reto consiste en crear una funcion que evalue un texto o string, y retorne 
 <br>
 <br>
 
+<h2> Reto #48 --> El calendario de aDEViento 2022 </h2>
+Este reto consiste en crear una funcion que imprima por pantalla el regalo correspondiente al dia del calendario de aDEViento 2022 pasado como argumento o, en su defecto, el tiempo que queda para que empiece el calendario, o tiempo que ha pasado desde que ha terminado.
+<br>
+<br>
+<br>
+<br>
+
+
 
 
 
