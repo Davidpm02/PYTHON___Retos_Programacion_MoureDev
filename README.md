@@ -419,6 +419,14 @@ Este reto consiste en crear una funcion que imprima por pantalla el regalo corre
 <br>
 
 
+<h2> Reto #49 --> El detector de handles </h2>
+Este reto consiste en crear una funcion detecte que los handles que hay presentes en un texto proporcionado por el usuario, empleando para ello Expresiones Regulares.
+<br>
+<br>
+<br>
+<br>
+
+
 
 
 
